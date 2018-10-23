@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>897</width>
+    <height>684</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <widget class="QPushButton" name="linear1">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>110</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/1a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup1</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_2">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>140</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/2a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup1</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_3">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>200</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/3a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup1</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_4">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>170</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/4a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup1</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_5">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>320</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/5a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup1</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_6">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>260</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/6a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup1</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_7">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>230</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/7a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup1</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_8">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>290</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/8a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup1</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_9">
+    <property name="geometry">
+     <rect>
+      <x>790</x>
+      <y>120</y>
+      <width>41</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/9a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup2</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_10">
+    <property name="geometry">
+     <rect>
+      <x>790</x>
+      <y>140</y>
+      <width>41</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/10a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup2</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_11">
+    <property name="geometry">
+     <rect>
+      <x>790</x>
+      <y>160</y>
+      <width>41</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/11a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup2</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_12">
+    <property name="geometry">
+     <rect>
+      <x>790</x>
+      <y>190</y>
+      <width>41</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/12a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup2</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_13">
+    <property name="geometry">
+     <rect>
+      <x>790</x>
+      <y>220</y>
+      <width>41</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/13a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup2</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_14">
+    <property name="geometry">
+     <rect>
+      <x>790</x>
+      <y>250</y>
+      <width>41</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/14a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup2</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_15">
+    <property name="geometry">
+     <rect>
+      <x>790</x>
+      <y>280</y>
+      <width>41</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/15a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup2</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_16">
+    <property name="geometry">
+     <rect>
+      <x>790</x>
+      <y>310</y>
+      <width>41</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/16a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup2</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_17">
+    <property name="geometry">
+     <rect>
+      <x>790</x>
+      <y>340</y>
+      <width>41</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/17a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup2</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_18">
+    <property name="geometry">
+     <rect>
+      <x>790</x>
+      <y>370</y>
+      <width>41</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/18a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup2</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_19">
+    <property name="geometry">
+     <rect>
+      <x>790</x>
+      <y>400</y>
+      <width>41</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/19a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup2</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_20">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>150</y>
+      <width>41</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/27a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup3</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_21">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>180</y>
+      <width>41</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/28a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup3</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_22">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>210</y>
+      <width>41</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/29a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup3</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_23">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>240</y>
+      <width>41</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/30a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup3</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_24">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>270</y>
+      <width>41</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/31a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup3</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_25">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>300</y>
+      <width>41</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/32a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup3</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_26">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>330</y>
+      <width>41</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/33a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup3</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_27">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>360</y>
+      <width>41</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/34a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup3</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_28">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>390</y>
+      <width>41</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/35a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup3</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_29">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>420</y>
+      <width>41</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/36a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup3</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_30">
+    <property name="geometry">
+     <rect>
+      <x>510</x>
+      <y>190</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/37a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup4</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_31">
+    <property name="geometry">
+     <rect>
+      <x>510</x>
+      <y>220</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/38a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup4</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_32">
+    <property name="geometry">
+     <rect>
+      <x>510</x>
+      <y>250</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/39a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup4</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_33">
+    <property name="geometry">
+     <rect>
+      <x>510</x>
+      <y>280</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/40a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup4</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_34">
+    <property name="geometry">
+     <rect>
+      <x>510</x>
+      <y>310</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/41a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup4</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_35">
+    <property name="geometry">
+     <rect>
+      <x>510</x>
+      <y>340</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/42a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup4</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_36">
+    <property name="geometry">
+     <rect>
+      <x>510</x>
+      <y>370</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/43a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup4</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_37">
+    <property name="geometry">
+     <rect>
+      <x>510</x>
+      <y>400</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/44a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup4</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_38">
+    <property name="geometry">
+     <rect>
+      <x>510</x>
+      <y>430</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/45a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup4</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_39">
+    <property name="geometry">
+     <rect>
+      <x>510</x>
+      <y>460</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/46a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup4</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_40">
+    <property name="geometry">
+     <rect>
+      <x>620</x>
+      <y>280</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/47a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup5</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_41">
+    <property name="geometry">
+     <rect>
+      <x>620</x>
+      <y>310</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/48a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup5</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_42">
+    <property name="geometry">
+     <rect>
+      <x>620</x>
+      <y>340</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/49a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup5</string>
+    </attribute>
+   </widget>
+   <widget class="QPushButton" name="linear1_43">
+    <property name="geometry">
+     <rect>
+      <x>620</x>
+      <y>370</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/new/prefix1/icon/50a.png);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <attribute name="buttonGroup">
+     <string notr="true">buttonGroup5</string>
+    </attribute>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>897</width>
+     <height>23</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+ <buttongroups>
+  <buttongroup name="buttonGroup3"/>
+  <buttongroup name="buttonGroup2"/>
+  <buttongroup name="buttonGroup5"/>
+  <buttongroup name="buttonGroup1"/>
+  <buttongroup name="buttonGroup4"/>
+ </buttongroups>
+</ui>
